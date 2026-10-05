@@ -9,9 +9,17 @@ Cademí is a platform for online courses. This is where developers and AI agents
 - **[API v3](https://cademi.dev/api)**: REST API with OpenAPI, cursor pagination, idempotent writes, events, and webhooks.
 - **[Webhooks](https://cademi.dev/webhooks)**: signed deliveries, with filters per event type and payload detail levels.
 
+Install the CLI and sign in. On macOS and Linux:
+
 ```sh
-curl -fsSL https://cli.cademi.dev/install.sh | bash   # macOS and Linux
-irm https://cli.cademi.dev/install.ps1 | iex           # Windows PowerShell
+curl -fsSL https://cli.cademi.dev/install.sh | bash
+cademi auth login
+```
+
+On Windows PowerShell:
+
+```powershell
+irm https://cli.cademi.dev/install.ps1 | iex
 cademi auth login
 ```
 
