@@ -11,6 +11,7 @@ Cademí is a platform for online courses. This is where developers and AI agents
 
 ```sh
 curl -fsSL https://cli.cademi.dev/install.sh | bash   # macOS and Linux
+irm https://cli.cademi.dev/install.ps1 | iex           # Windows PowerShell
 cademi auth login
 ```
 
