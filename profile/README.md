@@ -26,7 +26,7 @@ cademi auth login
 ## Repositories
 
 - [**developers**](https://github.com/minhacademi/developers): report bugs, request features, and ask questions about the MCP, the CLI, the API, and webhooks.
-- [**skills**](https://github.com/minhacademi/skills): Agent Skills that teach Claude Code, Cursor, Codex, and other agents to work with the `cademi` CLI.
+- [**skills**](https://github.com/minhacademi/skills): Agent Skills that teach Claude Code, Cursor, Codex, and other agents to work with Cademí. The first one covers the `cademi` CLI.
 
 ## Get help
 
