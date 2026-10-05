@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Cademí MCP, CLI, API, or webhooks
+    url: https://github.com/minhacademi/developers/issues/new/choose
+    about: Bugs and feature requests for the MCP, the CLI, the API, and webhooks go to minhacademi/developers.
+  - name: Documentation
+    url: https://cademi.dev
+    about: Guides and reference for the Cademí MCP, the CLI, the API v3, and webhooks.
+  - name: Security vulnerability
+    url: https://github.com/minhacademi/developers/security/advisories/new
+    about: Report a vulnerability privately. Never in a public issue.

@@ -4,12 +4,10 @@ Cademí is a platform for online courses. This is where developers and AI agents
 
 ## Build with Cademí
 
-| | |
-|---|---|
-| **Cademí MCP** | Connect Claude and other AI assistants to your account at `https://mcp.cademi.dev/mcp`. Sign in with Cademí; there is no API key to paste. [Get started](https://cademi.dev/mcp) |
-| **`cademi` CLI** | Every API operation as a command, with webhooks forwarded to your machine, config as code, and a sandbox. [Install](https://cademi.dev/cli/installation) |
-| **API v3** | REST API with OpenAPI, cursor pagination, idempotent writes, events, and webhooks. [Guides and reference](https://cademi.dev/api) |
-| **Webhooks** | Signed deliveries, with filters per event type and payload detail levels. [Webhooks](https://cademi.dev/webhooks) |
+- **[Cademí MCP](https://cademi.dev/mcp)**: connect Claude and other AI assistants to your account at `https://mcp.cademi.dev/mcp`. Sign in with Cademí; there is no API key to paste.
+- **[`cademi` CLI](https://cademi.dev/cli/installation)**: every API operation as a command, with webhooks forwarded to your machine, config as code, and a sandbox.
+- **[API v3](https://cademi.dev/api)**: REST API with OpenAPI, cursor pagination, idempotent writes, events, and webhooks.
+- **[Webhooks](https://cademi.dev/webhooks)**: signed deliveries, with filters per event type and payload detail levels.
 
 ```sh
 curl -fsSL https://cli.cademi.dev/install.sh | bash   # macOS and Linux
